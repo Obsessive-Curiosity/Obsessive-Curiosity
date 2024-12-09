@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Obessesive-Curiosty's%20Github&fontSize=50)
 
-📚 Studying <br/>
+<h1>📚 Studying<h1/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=html5&logoColor=white">
