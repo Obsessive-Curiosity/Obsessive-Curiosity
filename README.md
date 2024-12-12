@@ -29,6 +29,7 @@ Here are some ideas to get you started:
  <h3>🌊 Baekjun</h3>
     
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuck523)](https://solved.ac/kuck523/)  
-  https://www.codewars.com/users/MIN%20JI-YEONG/badges/large
+  [![codewars Profile](https://www.codewars.com/users/MIN%20JI-YEONG/badges/large)]
+  
 </div>
 
